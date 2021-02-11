@@ -1,0 +1,46 @@
+.text2{
+    text-indent: 1.5em;
+    text-align:justify;
+}
+.font_size{
+    font-size:350%;
+}
+.colortext{
+    color: #2b8e5d;
+    text-decoration: underline;
+}
+.verticaltext_top{
+    vertical-align: top;
+}
+.gorizontaltext_left{
+   text-align: left; 
+}
+.text4{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: bold;
+    font-size:24px;
+}
+.text5{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-style: bold;
+    font-size:44px;
+}
+.text3{
+    font-size:28px;
+    font-weight: bold;
+    text-decoration: underline;
+    color: #2b8e5d;
+    background-color: #d3d3d3;
+    text-align:center;
+}
+.table{
+    width: 100%;
+    height: 50px;
+}
+.text1{
+    font-size:18px;
+}
+.text6{
+    font-size:18px;
+    font-weight: bold;
+}
