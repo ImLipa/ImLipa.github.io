@@ -89,13 +89,13 @@ body {
 }
 @media (max-width:557px){
     #container{
-        max-width: 327;
+        max-width: 327px;
     }
 
 }
 @media (max-width:347px){
     #container{
-        max-width: 120;
+        max-width: 120px;
     }
 
 }
